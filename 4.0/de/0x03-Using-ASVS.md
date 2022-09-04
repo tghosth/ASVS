@@ -45,7 +45,7 @@ Eine Anwendung erreicht ASVS Level 2 (oder Standard), wenn sie die meisten Risik
 
 Maßnahmen zum Schutz der Anwendung auf Stufe 2 gehen in der Regel von geschickten und motivierten Angreifern aus, die sich auf bestimmte Ziele konzentrieren und Tools und Techniken einsetzen, die sehr versiert und wirksam Schwachstellen in Anwendungen entdecken und ausnutzen.
 
-### Stufe 3 - Hoher Wert, hohe Zuverl�ssigkeit oder hohe Sicherheit
+### Stufe 3 - Hoher Wert, hohe Zuverlässigkeit oder hohe Sicherheit
 
 ASVS Stufe 3 (oder Erweitert) ist die höchste Verifizierungsstufe innerhalb des ASVS. Diese Stufe ist in der Regel Anwendungen vorbehalten, die ein erhebliches Maß an geprüften Sicherheitsniveau erfordern. Diese sind z.B. im militärischen Bereich, dem Gesundheitssektor oder kritischen Infrastrukturen zu finden. Organisationen können ASVS Stufe 3 bei Anwendungen benötigen, die kritische Funktionen ausführen und bei denen ein Ausfall die Betriebsabläufe der Organisation oder sogar ihre Überlebensfähigkeit erheblich beeinträchtigen könnte. Eine Anwendung erreicht ASVS-Stufe 3, wenn sie angemessen vor fortgeschrittenen Schwachstellen geschützt ist und die Grundsätze eines guten Sicherheitsdesigns aufweist. Eine Prüfung auf ASVS-Stufe 3 erfordert eine tiefgründigere Analyse der Architektur, der Programmierung und der Testprozesse als alle anderen Ebenen. Eine sichere Anwendung wird auf sinnvolle Weise modularisiert. So können Resilienz, Skalierbarkeit und vor allem Kapselung leichter umgesetzt werden, da sich jedes Modul selbst um seine eigenen Sicherheitsmaßnahmen kümmern kann (Defense in Depth). Die Umsetzung dieser Maßnahmen muss ordnungsgemäß dokumentiert werden.
 
